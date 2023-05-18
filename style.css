@@ -1,0 +1,93 @@
+.aboba{
+    position: absolute;
+width: 1872px;
+height: 485px;
+left: 0px;
+top: 100px;
+background: linear-gradient(265.48deg, #095ACD 33.12%, #006AFF 84.7%);
+}
+.eng1{
+    position: absolute;
+    width: 840px;
+    height: 158px;
+    left: 540px;
+    top: 90px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 79px;
+ 
+    
+    text-align: center;
+    
+    color: #FFFFFF; 
+}
+.edg2{
+    position: absolute;
+    width: 840px;
+    height: 158px;
+    left: 540px;
+    top: 186px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 79px;
+    
+    text-align: center;
+    
+    color: #FFFFFF; 
+}
+.box{
+   position: relative;
+   margin: 10px;
+    top: 436px;
+    width: 843px;
+    height: 100px;
+    left: 320px;
+}
+
+.box2{
+    position: relative;
+    margin: 10px;
+     top: 436px;
+     width: 297px;
+     height: 100px;
+     left: 295px;
+ }
+ .box3{
+    position: relative;
+    margin: 10px;
+     top: 436px;
+     width: 154px;
+     height: 100px;
+     left: 268px;
+ }
+ .oxi{
+   
+position: absolute;
+width: 140px;
+height: 29px;
+left: 320px;
+top: 687px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+ }
+ .cntrlC{
+    position: absolute;
+    left: 320px;
+    top: 766px;
+    width: 1300px;
+    height: 2000px;
+ }
